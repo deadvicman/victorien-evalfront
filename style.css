@@ -1,0 +1,115 @@
+body{
+    color: #fff;
+    background-color: grey;
+}
+
+.navbar{
+    display: flex;
+    background-color: chartreuse;
+    position: relative;
+    top: 0;
+    width: 600px;
+    height: 300px
+
+}
+.navbar li {
+    list-style-type: none;
+    border: white;
+}
+img{
+    position: relative;
+    bottom: 300px;
+    left: 1050px;
+}
+
+.profil{
+    background-color: #faa202;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 1142px;
+    left: 600px;
+}
+.profil a{
+    color: #fff;
+
+}
+
+.experience{
+    background-color: blue;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 1140px;
+}
+.experience a{
+    color: #fff;
+}
+
+.education{
+    background-color: red;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 1440px;
+    left: 300px;
+
+}
+.education a{
+    color: #fff;
+}
+
+.blog{
+    background-color: chartreuse;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 1740px;
+    left: 600px;
+}
+.blog a{
+    color: #fff;
+}
+
+.social{
+    background-color: darkorange;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 1740px;
+
+}
+.social a{
+    color: #fff;
+}
+
+.contact{
+    background-color: blue;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 2040px;
+    left: 300px;
+}
+.contact a {
+    color: #fff;
+}
+
+.portfolio{
+    background-color: darkorange;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 2340px;
+    left: 600px;
+}
+.portfolio a {
+    color: #fff;
+}
